@@ -1,0 +1,29 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rows": "3",
+        "cols": "2",
+        "vbonecut": "False",
+        "hbonecut": "False"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "offset": "0.2mm"
+    },
+    "framing": {
+        "type": "frame",
+        "cuts": "v"
+    },
+    "tooling": {
+        "type": "3hole",
+        "hoffset": "2mm",
+        "voffset": "2mm",
+        "size": "1mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "5mm",
+        "voffset": "2mm"
+    }
+}
